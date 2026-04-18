@@ -6,8 +6,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/HowieHz/plugin-compatibility-checking-tool)
 
 > [!WARNING]
-> 本项目已归档，后续维护将迁移至 [HowieHz/howiehz-misc](https://github.com/HowieHz/howiehz-misc/blob/main/docs/tools/compatibility-test/README.md)。  
-> This project has been archived. Future maintenance has been moved to [HowieHz/howiehz-misc](https://github.com/HowieHz/howiehz-misc/blob/main/docs/tools/compatibility-test/README.md).
+> 本项目已归档，后续维护将迁移至 [HowieHz/howiehz-misc](https://github.com/HowieHz/howiehz-misc/tree/main/docs/tools/compatibility-test)。  
+> This project has been archived. Future maintenance has been moved to [HowieHz/howiehz-misc](https://github.com/HowieHz/howiehz-misc/tree/main/docs/tools/compatibility-test).
 
 Plugin Compatibility Checking Solution Based on Dichotomy and Partitioning
 
